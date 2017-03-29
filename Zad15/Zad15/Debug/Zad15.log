@@ -1,0 +1,3 @@
+﻿  Zad15.cpp
+d:\biały\programowanie 07-01-2017\zad15\zad15\zad15.cpp(25): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  Zad15.vcxproj -> D:\Biały\Programowanie 07-01-2017\Zad15\Debug\Zad15.exe

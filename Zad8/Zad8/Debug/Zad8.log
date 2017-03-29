@@ -1,0 +1,7 @@
+﻿  Zad8.cpp
+d:\studia\programowanie\programowanie 03-12-2016\zad8\zad8\zad8.cpp(41): warning C4305: 'argument' : truncation from 'double' to 'float'
+d:\studia\programowanie\programowanie 03-12-2016\zad8\zad8\zad8.cpp(64): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+d:\studia\programowanie\programowanie 03-12-2016\zad8\zad8\zad8.cpp(69): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+  stdafx.cpp
+  Generating Code...
+  Zad8.vcxproj -> D:\Studia\Programowanie\Programowanie 03-12-2016\Zad8\Debug\Zad8.exe

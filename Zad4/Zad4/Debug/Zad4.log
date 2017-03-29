@@ -1,0 +1,4 @@
+﻿  Zad4.cpp
+c:\users\student.nmkzllab\desktop\programowanie 5-11-2016\zad4\zad4\zad4.cpp(61): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\student.nmkzllab\desktop\programowanie 5-11-2016\zad4\zad4\zad4.cpp(62): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+  Zad4.vcxproj -> C:\Users\student.NMKZLLAB\Desktop\Programowanie 5-11-2016\Zad4\Debug\Zad4.exe
